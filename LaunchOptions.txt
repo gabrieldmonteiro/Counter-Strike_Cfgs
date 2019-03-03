@@ -1,0 +1,2 @@
+//LaunchOptions
+-novid -nodvid -nojoy -noforcemaccel -noforcemparms -noforcemspd -nod3d9ex -threads 4 -noaafonts -console -tickrate 128
