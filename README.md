@@ -1,1 +1,1 @@
-# Counter Strike: Global Offensive CFG
+# Counter Strike 2 CFG
